@@ -17,7 +17,8 @@ PyQt5: pip install PyQt5
 Optical Character Recognition(OCR) :
 Pytesseract: pip install pytesseract
 
-
+FaceRecognition :
+sklearn: pip install sklearn
 
 
 
